@@ -59,13 +59,6 @@ In windows IE, on giving the url http://192.168.1.2, the fake Google page is dis
 
 SET logs the information regarding the Google credentials:
 
-![Uploading image.png…]()
-
-
-
-
-
-
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
